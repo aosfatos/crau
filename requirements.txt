@@ -1,5 +1,5 @@
 click
-pywb
-scrapy
+pywb==2.8.3
+scrapy==2.11.1
 tqdm
 warcio
